@@ -1,7 +1,8 @@
 class ClassificationHelper:
     @staticmethod
-    def train():
+    def train(type):
         pass
 
+    @staticmethod
     def classify(study):
         pass
